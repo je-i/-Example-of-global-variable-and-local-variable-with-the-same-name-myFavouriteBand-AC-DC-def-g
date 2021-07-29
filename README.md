@@ -1,0 +1,1 @@
+# -Example-of-global-variable-and-local-variable-with-the-same-name-myFavouriteBand-AC-DC-def-g
